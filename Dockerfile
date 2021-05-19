@@ -1,5 +1,4 @@
-FROM a2base
-# a2x11-2021 Change this??
+FROM falcaso/ants2-dockerbase:v0
 
 ARG G4VERSION=10.7.1
 ARG JOBS=14
